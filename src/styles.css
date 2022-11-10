@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+nav {
+  height: 3.5rem;
+}
+
+button {
+  margin-bottom: 1rem;
+}
+
+.div-father {
+  margin-top: 1rem;
+}
